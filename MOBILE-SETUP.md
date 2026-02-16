@@ -386,7 +386,7 @@ This uses Apple's on-device speech recognition — fast, accurate, and private.
 
 ---
 
-## What You Built
+## What We Built
 
 A fully private AI companion accessible from your phone with:
 - 3D VRM avatar with lip sync and eye tracking
