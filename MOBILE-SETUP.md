@@ -284,7 +284,7 @@ Go to User Settings → Custom CSS and paste:
 ### VRM Model Settings
 | Setting | Value |
 |---------|-------|
-| Model | indigo2 |
+| Model | your model |
 | Model scale | 3.4x |
 | Model center X offset | 0.06 |
 | Model center Y offset | 0.36 |
@@ -363,7 +363,7 @@ This uses Apple's on-device speech recognition — fast, accurate, and private.
 
 ### Avatar not showing
 - Check VRM extension is enabled
-- Verify model "indigo2" is selected
+- Verify model is selected
 - Try "Click to reload all VRM models" in Debug Settings
 
 ### Long response times
