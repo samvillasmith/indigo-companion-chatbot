@@ -4,7 +4,7 @@
 
 Indigo Companion Chatbot is an open-source stack for creating multi-modal AI companions. Combine text generation, expressive text-to-speech, speech-to-text, long-term memory, and a lip-synced 3D avatar into a private, conversational experience. You talk, they listen. They respond, you hear their voice, and their avatar speaks the words.
 
-Everything runs privately — text generation through Venice AI (no logging, no content filters), voice synthesis on a rented GPU, and the avatar, memory, and chat interface all on your local machine.
+Everything runs privately — text generation through Venice AI (no logging, totally private), voice synthesis on a rented GPU, and the avatar, memory, and chat interface all on your local machine.
 
 Create any character you want. Give them a personality, a backstory, a voice, and a face.
 
